@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-08-12 14:40:49",
+    "symbol": "NVDA",
+    "action": "BUY",
+    "confidence_pct": 80,
+    "entry_price": 217.5,
+    "current_price": 217.5,
+    "pnl_dollars": 0.0,
+    "pnl_pct": 0.0,
+    "stop_loss": 202.04,
+    "take_profit": 248.42,
+    "shares": 22,
+    "total_cost": 4785.0,
+    "status": "OPEN",
+    "ai_reasoning": "NVIDIA Corporation, güçlü büyüme potansiyeli, yüksek karlılık ve güçlü bir endüstri konumuna sahip. Teknik analiz ve fundamentaller, hissenin güçlü bir yükseliş trendinde olduğunu gösteriyor."
+  }
+]
