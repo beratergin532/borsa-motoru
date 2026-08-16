@@ -1058,3 +1058,82 @@
 2026-08-14 12:42:01 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [META] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
 2026-08-14 12:42:03 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [META] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
 2026-08-14 12:49:46 | INFO     | src.data_engine.news:get_company_news:50 - NVDA için 10 haber başlığı duygu analiziyle çekildi.
+2026-08-14 17:36:50 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-14 17:49:44 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:04:40 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:16:01 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:16:18 | WARNING  | src.data_engine.fetcher:fetch_historical_data:110 - WMT direct REST API çağrısı başarısız, yfinance deneniyor: HTTPSConnectionPool(host='query1.finance.yahoo.com', port=443): Read timed out. (read timeout=5)
+2026-08-16 17:20:02 | INFO     | src.data_engine.news:get_company_news:50 - NVDA için 10 haber başlığı duygu analiziyle çekildi.
+2026-08-16 17:21:36 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:21:41 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:21:44 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:21:56 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:22:01 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:22:05 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:22:47 | INFO     | src.data_engine.news:get_company_news:50 - NVDA için 10 haber başlığı duygu analiziyle çekildi.
+2026-08-16 17:22:50 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:23:36 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:23:41 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:23:49 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:24:34 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:25:22 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:26:11 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:27:00 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:27:50 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:28:37 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:29:12 | INFO     | src.data_engine.news:get_company_news:50 - AAPL için 10 haber başlığı duygu analiziyle çekildi.
+2026-08-16 17:29:22 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:30:07 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:31:00 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:31:48 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:32:39 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:33:29 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:34:18 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:34:40 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:34:45 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:34:48 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:35:22 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:35:27 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:35:29 | INFO     | src.data_engine.news:get_company_news:50 - AAPL için 10 haber başlığı duygu analiziyle çekildi.
+2026-08-16 17:35:29 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:35:40 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [AAPL] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:36:14 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:36:36 | INFO     | src.data_engine.news:get_company_news:50 - NVDA için 10 haber başlığı duygu analiziyle çekildi.
+2026-08-16 17:36:59 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:37:46 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:38:31 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:39:16 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:40:04 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:40:49 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:41:35 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:42:22 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:42:34 | INFO     | src.data_engine.news:get_company_news:50 - NVDA için 10 haber başlığı duygu analiziyle çekildi.
+2026-08-16 17:42:37 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [NVDA] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:43:07 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:43:52 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:44:39 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:45:25 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:46:12 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:46:58 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:47:44 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:48:17 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:48:22 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:48:25 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:49:11 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:49:56 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:50:13 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:50:18 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:50:22 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:50:27 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:50:32 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:50:34 | INFO     | src.data_engine.news:get_company_news:83 - NVDA için 10 haber başarıyla işlendi.
+2026-08-16 17:50:35 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:50:42 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [NVDA] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:50:58 | INFO     | src.data_engine.news:get_company_news:83 - GOOGL için 10 haber başarıyla işlendi.
+2026-08-16 17:51:06 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [GOOGL] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:51:20 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:52:05 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:52:43 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:52:48 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:52:53 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:52:58 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
