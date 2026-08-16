@@ -1137,3 +1137,39 @@
 2026-08-16 17:52:48 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
 2026-08-16 17:52:53 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
 2026-08-16 17:52:58 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:57:21 | INFO     | config.settings:<module>:54 - Yapılandırma dosyası (config) başarıyla yüklendi.
+2026-08-16 17:57:25 | INFO     | src.data_engine.news:get_company_news:83 - GOOGL için 10 haber başarıyla işlendi.
+2026-08-16 17:57:25 | INFO     | src.data_engine.news:get_company_news:83 - GOOGL için 10 haber başarıyla işlendi.
+2026-08-16 17:57:25 | INFO     | src.data_engine.news:get_company_news:83 - GOOGL için 10 haber başarıyla işlendi.
+2026-08-16 17:57:25 | INFO     | src.data_engine.news:get_company_news:83 - GOOGL için 10 haber başarıyla işlendi.
+2026-08-16 17:57:26 | INFO     | main:background_cache_warmer:35 - 🚀 borsAI Otomatik Veri Motoru (Cache Warmer) Devreye Girdi.
+2026-08-16 17:57:29 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:57:36 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [GOOGL] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:57:37 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [GOOGL] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:57:37 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [GOOGL] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:58:04 | INFO     | src.data_engine.news:get_company_news:83 - NVDA için 10 haber başarıyla işlendi.
+2026-08-16 17:58:14 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:58:21 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [GOOGL] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 17:58:59 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:59:27 | INFO     | src.data_engine.news:get_company_news:83 - MSFT için 10 haber başarıyla işlendi.
+2026-08-16 17:59:48 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 17:59:56 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [MSFT] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 18:00:33 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:01:18 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:02:06 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:02:10 | INFO     | src.data_engine.news:get_company_news:83 - MSFT için 10 haber başarıyla işlendi.
+2026-08-16 18:02:20 | INFO     | src.data_engine.news:get_company_news:83 - NVDA için 10 haber başarıyla işlendi.
+2026-08-16 18:02:49 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [MSFT] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 18:02:51 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:02:51 | INFO     | src.ai_engine.llm_client:generate_analysis:71 - [MSFT] meta-llama/llama-3.3-70b-instruct modeli ile 1sn altında AI raporu üretildi.
+2026-08-16 18:03:37 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:04:25 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:05:12 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:05:59 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:06:42 | INFO     | src.data_engine.news:get_company_news:83 - NVDA için 10 haber başarıyla işlendi.
+2026-08-16 18:06:46 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:07:31 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:08:16 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:09:04 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:09:50 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
+2026-08-16 18:10:38 | INFO     | main:background_cache_warmer:46 - ⚡ Canlı Borsa & Sektör Verileri RAM üzerinde güncellendi.
